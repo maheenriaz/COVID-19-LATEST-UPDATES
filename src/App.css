@@ -1,0 +1,54 @@
+
+#hed{
+  white-space: nowrap;
+}
+@media screen and (max-width: 763px) {
+  table{
+    margin-left: -100px;
+    width: 200px;
+  }
+}
+
+
+
+
+
+@media screen and (max-width: 759px) {
+  table{
+    margin-left: -90px;
+    width: 200px;
+  }
+}
+@media screen and (max-width: 662px) {
+  table{
+    margin-left: -40px;
+    width: 200px;
+  }
+}
+@media screen and (max-width: 585px) {
+  table{
+    margin-left: -20px;
+    width: 200px;
+  }
+}
+
+@media screen and (max-width: 563px) {
+  table{
+    margin-left: 10px;
+    width: 200px;
+  }
+}
+@media screen and (max-width: 526px) {
+#hed{
+    margin-left: 190px;
+    font-size: 30px;
+    
+  }
+}
+@media screen and (max-width: 463px) {
+#hed{
+    margin-left: 200px;
+    font-size: 20px;
+    
+  }
+}
